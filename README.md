@@ -1,0 +1,1 @@
+After having had a machine recently stolen I decided to script and automate my mac setup.
